@@ -1,13 +1,12 @@
 h1{
-
-    font-size:76px;
-
-     color:3CFF00;
+         font-size:77px;
+         color:blue;
 }
-
-p{
-
-    font-size:64px;
-
-     color:#FF0000;
+img{
+         height:300px;
+         width:auto;
+}
+#special{
+         font-size:70px;
+         color:purple;
 }
